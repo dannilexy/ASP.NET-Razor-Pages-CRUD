@@ -390,3 +390,4 @@ C:\Users\DANNY\Desktop\.NET Core\Abby\AbbyWeb\obj\Debug\net5.0\Razor\Pages\Categ
 C:\Users\DANNY\Desktop\.NET Core\Abby\AbbyWeb\obj\Debug\net5.0\Razor\Pages\Categories\Create.cshtml.g.cs
 C:\Users\DANNY\Desktop\.NET Core\Abby\AbbyWeb\obj\Debug\net5.0\Razor\Pages\Categories\Edit.cshtml.g.cs
 C:\Users\DANNY\Desktop\.NET Core\Abby\AbbyWeb\obj\Debug\net5.0\Razor\Pages\Categories\Delete.cshtml.g.cs
+C:\Users\DANNY\Desktop\.NET Core\Abby\AbbyWeb\obj\Debug\net5.0\Razor\Pages\Shared\_Alerts.cshtml.g.cs
